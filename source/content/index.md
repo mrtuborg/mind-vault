@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home 🚀","created":"2025-07-07T12:51:53.526+02:00","modified":"2025-07-07T15:03:47.936+02:00","cssclasses":""}
+{"publish":true,"title":"Home 🚀","created":"2025-07-07T12:51:53.526+02:00","modified":"2025-07-07T15:04:37.808+02:00","cssclasses":""}
 ---
 
 
@@ -47,7 +47,7 @@ An introduction to embedded systems concepts, architectures, and development wor
 
 ## Projects & Connect 🌐
 
-- [GitHub: My Projects](https://github.com/yourusername) ⭐  
+- [GitHub: My Projects](https://github.com/mrtuborg) ⭐  
 - [LinkedIn Profile](https://linkedin.com/in/vnosenko) 🔗  
 
 ---
