@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Quick Start: Running Moby on Yocto Embedded Device","description":"What is inside docker engine","created":"2025-07-02T11:41:58.749+02:00","modified":"2025-07-07T13:02:43.310+02:00","tags":["docker"],"cssclasses":""}
+{"publish":true,"title":"Quick Start: Running Moby on Yocto Embedded Device","description":"What is inside docker engine","created":"2025-07-02T11:41:58.749+02:00","modified":"2025-07-07T15:07:06.041+02:00","tags":["docker"],"cssclasses":""}
 ---
 
 

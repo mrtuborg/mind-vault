@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Video4Linux practical tryout","draft":true,"created":"2025-07-07","modified":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Video4Linux practical tryout","created":"2025-07-07","modified":"2025-07-07","cssclasses":""}
 ---
 
 
