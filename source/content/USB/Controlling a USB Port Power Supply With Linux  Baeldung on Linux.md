@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Controlling a USB Port Power Supply With Linux | Baeldung on Linux","description":"Learn several ways of controlling the power supply to a USB port in Linux.","created":"2025-02-06T12:46:26.796+01:00","modified":"2025-07-07T12:01:13.300+02:00","tags":["clippings"],"cssclasses":""}
+{"publish":true,"title":"Controlling a USB Port Power Supply With Linux | Baeldung on Linux","description":"Learn several ways of controlling the power supply to a USB port in Linux.","draft":true,"created":"2025-02-06T12:46:26.796+01:00","modified":"2025-07-07T13:12:37.382+02:00","tags":["clippings"],"cssclasses":""}
 ---
 
 ## 1. Introduction
