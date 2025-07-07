@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home 🚀","created":"2025-07-07T12:51:53.526+02:00","modified":"2025-07-07T15:04:37.808+02:00","cssclasses":""}
+{"publish":true,"title":"Home 🚀","created":"2025-07-07T12:51:53.526+02:00","modified":"2025-07-07T21:02:43.677+02:00","cssclasses":""}
 ---
 
 
@@ -30,6 +30,7 @@ An introduction to embedded systems concepts, architectures, and development wor
   My efforts to get the Video4Linux (V4L) subsystem working on embedded hardware. Covers setup, operations, logging, and troubleshooting.  
 - [[Docker-embedded/Moby project]]  
   Exploring the internals of Docker’s Moby project and customizing it for embedded needs.
+-  [[kernel-config-network-manager-wifi-tutorial]] A step-by-step tutorial on configuring the Linux kernel, NetworkManager, and Wi-Fi on embedded devices.
 
 #### 3. Cybersecurity 🔒  
 - [[Cybersecurity and Reverse Engineering]]  
