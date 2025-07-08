@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home 🚀","created":"2025-07-07T12:51:53.526+02:00","modified":"2025-07-08T10:59:37.659+02:00","cssclasses":""}
+{"publish":true,"title":"Home 🚀","created":"2025-07-07T12:51:53.526+02:00","modified":"2025-07-08T11:36:27.729+02:00","cssclasses":""}
 ---
 
 
@@ -20,15 +20,15 @@ Feel free to explore, experiment, and reach out if you want to connect or collab
 
 ---
 
-### Explore the Wiki 📚
+### Explore my Journeys 📚
 
 #### 1. Embedded Systems Overview  
 An introduction to embedded systems concepts, architectures, and development workflows.
 
 #### 2. Linux Development 🐧  
-- [[Video4Linux/Video4Linux practical tryout]]  
-  My efforts to get the Video4Linux (V4L) subsystem working on embedded hardware. Covers setup, operations, logging, and troubleshooting.  
-- [[Docker-embedded/Moby project]]  
+- [[Video4Linux/Video4Linux: A Journey Through MIPI CSI Camera Hell and Back]]
+  My journey into the world of Video4Linux with MIPI CSI cameras in embedded devices, including the hardware surprises, driver nightmares, and practical solutions that actually work afterwards.
+- [[Docker-embedded/Moby Project: A Journey Through Container Hell in Embedded Systems]]
   Exploring the internals of Docker’s Moby project and customizing it for embedded needs.
 - [[Connectivity/Network-manager connectivity integration in Linux (Yocto)]]
 	My journey into integrating Network Manager with WiFi and cellular connectivity in embedded Linux, all my mistakes on the way and practical solutions that finally work.
