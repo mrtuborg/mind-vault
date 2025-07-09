@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Video4Linux: A Journey Through MIPI CSI Camera Hell and Back","description":"Real-world experiences integrating Video4Linux with MIPI CSI cameras in embedded devices, including the hardware surprises, driver nightmares, and practical solutions that actually work in production","created":"2025-01-08","modified":"2025-07-08T11:21:37.707+02:00","tags":["v4l2","mipi-csi","camera","embedded","debugging","kernel-drivers","multimedia","lessons-learned"],"cssclasses":""}
+{"publish":true,"title":"Video4Linux: A Journey Through MIPI CSI Camera Hell and Back","description":"Real-world experiences integrating Video4Linux with MIPI CSI cameras in embedded devices, including the hardware surprises, driver nightmares, and practical solutions that actually work in production","created":"2025-01-08","modified":"2025-07-09T13:38:58.946+02:00","tags":["v4l2","mipi-csi","camera","embedded","debugging","kernel-drivers","multimedia","lessons-learned"],"cssclasses":""}
 ---
 
 This post chronicles my experience integrating the Video4Linux (V4L) subsystem with MIPI CSI cameras into an embedded industrial monitoring system. What started as "just add a camera sensor for remote diagnostics" turned into a deep dive through device trees, MIPI lane configurations, ISP pipelines, and the peculiarities of embedded camera sensor integration. Here's what I learned, what broke spectacularly, and what actually works when you need reliable MIPI CSI video capture in production.
@@ -17,7 +17,7 @@ This post chronicles my experience integrating the Video4Linux (V4L) subsystem w
 ### Issue #1: The Great MIPI CSI Lane Configuration Mystery
 
 **The Problem:**
-The first camera sensor I tried—an OmniVision OV5640 that worked perfectly on the vendor's development kit—produced nothing but corrupted frames and kernel crashes on our custom board.
+The first camera sensor I tried - an OmniVision OV5640 that worked perfectly on the vendor's development kit -produced nothing but corrupted frames and kernel crashes on our custom board.
 
 **What I Initially Thought:**
 "Must be a simple driver issue, I'll just enable the OV5640 driver in the kernel."
